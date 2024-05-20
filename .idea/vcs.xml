@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../../js/back_call_mq_js" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../js/js_stomp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../js/live_stream_js" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../js/rest_ts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../js/webstomp_client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../deployment_ts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../lidwina_broker/receiver_service_pcare/receiver_service_pcare" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../receiver_service_pcare" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ts_nodjs" vcs="Git" />
+  </component>
+</project>
