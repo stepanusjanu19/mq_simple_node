@@ -2,7 +2,7 @@ const amqp = require("amqplib");
 const config = require("./config/config");
 const { default: axios } = require("axios");
 
-const queuesName = "queue_antrian/192.168.9.220";
+const queuesName = "queue_antrian/192.168.9.221";
 const arrQueue = [];
 var announcementState = false;
 
